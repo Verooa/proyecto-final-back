@@ -14,9 +14,9 @@ Si quires ejecutar el proyecto localmente:
 pip install -r requirements.txt 
 
 ## Contribuir
-Es más que bienvenido para contribuir a este proyecto si tienes una idea, errores o correcciones. Hacer un PR, los problemas y mencione al autor @nombre.
+Es más que bienvenido para contribuir a este proyecto si tienes una idea, errores o correcciones. Hacer un PR, los problemas y mencione al autor @Verooa
 ## Asistencia
-Si tienes problemas, informes de errores o preguntas, cree un asunto o envíe un correo electrónico al autor nombre@example.con
+Si tienes problemas, informes de errores o preguntas, cree un asunto o envíe un correo electrónico al autor veroromero.arq@gmail.com
 ## Licencia
 Distributed under the MIT License. See LICENSE for more information.
 ## Autor
